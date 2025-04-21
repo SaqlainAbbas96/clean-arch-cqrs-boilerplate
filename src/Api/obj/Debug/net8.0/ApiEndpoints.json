@@ -1,0 +1,40 @@
+[
+  {
+    "ContainingType": "Api.Endpoints.TaskEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTaskEndpoints\u003Eb__0_0",
+    "RelativePath": "api/tasks",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Commands.CreateTaskCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api.Endpoints.TaskEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTaskEndpoints\u003Eb__0_1",
+    "RelativePath": "api/tasks",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

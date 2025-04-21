@@ -1,0 +1,17 @@
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Common.dll
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\Projects\Github\TaskManagement\src\Infrastructure\bin\Debug\net9.0\Common.pdb
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Projects\Github\TaskManagement\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
